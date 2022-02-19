@@ -1,0 +1,10 @@
+html{
+    /* very useful */
+    box-sizing: border-box; /*prevents padding to
+    add extra height or width*/
+}
+body{
+    margin: 0;
+    min-height: 90vh;/* full height of entire window*/
+    background: darkcyan;
+}
